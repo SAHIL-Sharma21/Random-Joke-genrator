@@ -5,26 +5,25 @@
     font-family: 'Caveat', cursive;
 }
 body{
-    background-color: #126bc4;
+    background-color: rgb(19, 19, 19);
 }
-h3{
+h1{
     text-align: center;
-    color: #ffffff;
+    color: #000000;
 }
 .wrapper{
     width: 80vmin;
     padding: 50px 40px;
-    background-color: #142425;
+    background-color: #ffffff;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
     border-radius: 5px;
-    box-shadow: 20px 20px 40px rgba(97, 63, 0, 0.4);
 }
 p{
     font-size: 16px;
-    color: #ffffff;
+    color: #000000;
     font-weight: 400;
     text-align: center;
     word-wrap: break-word;
@@ -38,11 +37,11 @@ p{
 }
 button{
     display: block;
-    background-color:#fab22e ;
+    background-color:#0051ff ;
     border: none;
     padding: 5px;
     font-size: 18px;
-    color: #171721;
+    color: #ffffff;
     font-weight: 500;
     padding: 12px 25px;
     margin: 0 auto;
